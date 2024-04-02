@@ -22,6 +22,10 @@
 
 ### :camera: Screenshots
 <div align="center"> <a href="https://mehedi-shanto.netlify.app/"><img src="https://github.com/mehedifiz/-AlphaKey-Conques/blob/main/screenshots/playground.png" alt='image' width='800'/></a> </div>
+<<<<<<< HEAD
+=======
+<div align="center"> <a href="https://mehedi-shanto.netlify.app/"><img src="https://github.com/mehedifiz/-AlphaKey-Conques/blob/main/screenshots/Result.png" alt='image' width='800'/></a> </div>
+>>>>>>> 0d79ada0cf7acdc6ed34fcace64cd1657d9790e5
 
 
 
@@ -61,11 +65,17 @@ https://github.com/mehedifiz/-AlphaKey-Conques
 
 Contributions are always welcome!
 
+<<<<<<< HEAD
 see `contributing.md` for ways to get started
 
 ### :scroll: Code of Conduct
 
 Please read the [Code of Conduct](https://github.com/mehedifiz/-AlphaKey-Conques/blob/master/CODE_OF_CONDUCT.md)
+=======
+
+
+
+>>>>>>> 0d79ada0cf7acdc6ed34fcace64cd1657d9790e5
 
 ## :warning: License
 
@@ -73,14 +83,24 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 ## :handshake: Contact
 
+<<<<<<< HEAD
 Mehedi Hasan Shanto - [@twitter_handle](https://mehedi-shanto.netlify.app/) - mehedi.shanto.contract@gmail.com
+=======
+Mehedi Hasan Shanto - [@My_site](https://mehedi-shanto.netlify.app/) - mehedi.shanto.contract@gmail.com
+>>>>>>> 0d79ada0cf7acdc6ed34fcace64cd1657d9790e5
 
 Project Link: [https://github.com/mehedifiz/-AlphaKey-Conques](https://github.com/mehedifiz/-AlphaKey-Conques)
 
 ## :gem: Acknowledgements
 
 Use this section to mention useful resources and libraries that you have used in your projects.
+<<<<<<< HEAD
 
 - [Tailwindcss ](https://tailwindcss.com/)
 - [DaisyUI](https://daisyui.com/)
 - [Thanks to Jankar Mahbub and the Programming Hero team for inspiring this project.](https://www.programming-hero.com/)
+=======
+- [Thanks to Jankar Mahbub and the Programming Hero team for inspiring this project.](https://www.programming-hero.com/)
+- [Tailwindcss ](https://tailwindcss.com/)
+- [DaisyUI](https://daisyui.com/)
+>>>>>>> 0d79ada0cf7acdc6ed34fcace64cd1657d9790e5
