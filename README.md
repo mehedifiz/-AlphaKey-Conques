@@ -5,7 +5,7 @@
 <h1>AlphaKey Conquest</h1>
 <p>Welcome to AlphaKey Conquest! This project is a thrilling typing game developed as part of the Programming Hero Web Development Course led by Jankar Mahbub. Designed to test and improve your typing skills, AlphaKey Conquest combines engaging gameplay with a sleek, modern interface built using HTML5, CSS3 (including Tailwind CSS and DaisyUI), and JavaScript.</p>
 
-<h4> <a href=https://mehedi-shanto.netlify.app/>View Demo</a> <span> · </span> <a href="https://github.com/mehedifiz/ AlphaKey Conquest/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/mehedifiz/ AlphaKey Conquest/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/mehedifiz/ AlphaKey Conquest/issues"> Request Feature </a> </h4>
+<h4> <a href=alpahkey.netlify.app/>View Demo</a> <span> · </span> <a href="https://github.com/mehedifiz/ AlphaKey Conquest/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/mehedifiz/ AlphaKey Conquest/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/mehedifiz/ AlphaKey Conquest/issues"> Request Feature </a> </h4>
 
 
 </div>
