@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="emerald">
+<html lang="en" data-theme="light">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -10,17 +10,20 @@
     />
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="style.css" />
-    <title>Alpah Clash Pro</title>
+    <title>AlphaKey Conquest</title>
   </head>
   <body
     class="min-h-screen bg-[#010313] bg-[url(images/background.png)] bg-no-repeat bg-center font-poppins"
   >
     <main class="">
+      <div class=" mb-56  absolute left-20 top-11">
+      <a class="  mb-56 " href="https://github.com/mehedifiz/Alpah-Clash-Pro"><img class="w-16 " src="images/github.png" ></a> </div>
+          <!-- Home screen  -->
       <section id="home"
         class="  min-h-screen text-white flex justify-center items-center"
       >
         <div class="flex flex-col items-center gap-10">
-          <h1 class="text-8xl font-anton uppercase">Alpah Clash Pro</h1>
+          <h1 class="text-8xl font-anton uppercase">AlphaKey Conquest</h1>
           <p>Unleash Your Keyboard Kung Fu : Press “Enter” to Play</p>
           <button onclick="play()" class="btn btn-primary text-white ">play Now</button>
         </div>
@@ -78,30 +81,31 @@
             </div>
           </div>
           <!-- keybord end -->
-          <!-- score -->
+          <!-- buttons -->
           <div class="flex justify-between w-3/4">
-          <button class="btn rounded-full bg-purple-300 text-white px-4">
+          <button class="btn rounded-full bg-purple-500 text-white px-4">
             
            <img src="images/heart.svg" alt="">
-            <span>1</span>
+            <span id="life">5</span>
           </button>
           <button class="btn rounded-full bg-purple-700 text-white px-4">
-            Doller
+            score
            <img src="images/doller.svg" alt="">
-            <span>1</span>
+            <span id="scoreId">0</span>
           </button>
         </div>
         <!-- playground end -->
       </section>
 
               <!-- score -->
-      <section class="hidden score flex justify-center items-center min-h-screen">
+      <section id="score" class="hidden score flex justify-center items-center min-h-screen">
 
           <div class="text-white text-center space-y-6 bg-[#FFFFFF33] p-4 rounded-lg   ">
+            <h4 class="text-3xl">Game Over! </h4>
             <h1 class="text-8xl">
               <span class="font-extrabold">Score:</span> 
-            <span>14</span> </h1>
-            <button class="btn">Play Again</button>
+            <span id="lastScore">14</span> </h1>
+            <button onclick="play()" id="again" class="btn">Play Again</button>
             <p>Practice will make you Pro</p>
           </div>
 
